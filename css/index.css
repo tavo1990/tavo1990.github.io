@@ -1,0 +1,175 @@
+.main-color {
+  color: #94c562;
+}
+
+.secondary-color {
+  color: rgb(41, 144, 123)
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #176656;
+  border-color: #176656;
+}
+
+.font-color {
+  color: #2d3142
+}
+
+.body {
+  font-family: 'Quicksand', sans-serif;
+  width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.row {
+  margin: 0px;
+  padding: 0px;
+}
+
+#app-header {
+  width: 100%;
+  height: 436px;
+  object-fit: contain;
+  background-image: url(../assets/header.png);
+  background-size: cover;
+}
+
+#app-header .logo-white {
+  width: 200px;
+  height: 65px;
+}
+
+#app-header .text-white{
+   width: 641px;
+  height: 105px;
+  object-fit: contain;
+  font-family: Quicksand;
+  font-size: 35px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1.9px;
+  text-align: left;
+  color: #ffffff; 
+}
+
+#app-header .text-small{
+  width: 608px;
+  height: 91px;
+  object-fit: contain;
+  font-family: Quicksand;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1.7px;
+  text-align: left;
+  color: #ffffff;
+} 
+
+#app-header .bold{
+  font-weight: bold;
+  letter-spacing: 2.2px;
+}
+
+#app-header .cookies {
+  width: 641px;
+  height: 301px;
+  position: absolute;
+  margin-top: 44px;
+  margin-left: -300px;
+}
+
+#app-hero .logo {
+  background-color: #fff;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.35);
+  position: absolute;
+  top: -20%;
+  left: 40%;
+}
+
+#app-hero .cube {
+  font-size: 50px;
+  margin-top: 12px;
+}
+
+#app-hero .card {
+  border-radius: 0.5rem;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.35);
+  width: 95%;
+}
+
+#app-hero .btn {
+  position: absolute;
+  top: 95%;
+  right: 38%;
+}
+
+#app-about {
+  margin-top: 100px;
+}
+
+
+
+#app-about .giftbox {
+  margin-right: 50px;
+  margin-top: -20px;
+}
+
+#app-about .row-text {
+  margin-right: 60px;
+}
+
+#app-about .snacks-text {
+  padding-left: 40px;
+  padding-right: 0;
+}
+
+#app-about .sorprendete {
+  margin-right: 20px;
+}
+
+#app-about .sorprendete-text {
+  padding-left: 60px;
+  padding-right: 0;
+}
+
+#app-about .sin-compromisos-text {
+  padding-left: 40px;
+  padding-right: 0;
+}
+
+#app-footer {
+  width: 100%;
+}
+
+#app-footer .logo {
+  width: 120px;
+  height: 40px;
+}
+
+#app-footer button {
+  z-index: 2;
+  margin-right: 148px;
+}
+
+#app-footer .galletas {
+  position: absolute;
+  width: 250px;
+  height: 300px;
+  top: -160px;
+  left: 460px;
+}
+
+#ModalCenter .form-control {
+  width: 80%;
+}
